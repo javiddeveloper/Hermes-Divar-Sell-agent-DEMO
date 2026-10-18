@@ -48,6 +48,8 @@ Selling to small businesses (or to private owners) on Divar means scrolling hund
 | Reports | [#reports](https://javiddeveloper.github.io/Hermes-Divar-Sell-agent-DEMO/#reports) | Funnel, bottlenecks, loss reasons, best cities and hours, message-style analysis, CSV export |
 | Customers | [#customers](https://javiddeveloper.github.io/Hermes-Divar-Sell-agent-DEMO/#customers) | Converted customers, median time-to-convert, add a manual customer |
 | Knowledge | [#knowledge](https://javiddeveloper.github.io/Hermes-Divar-Sell-agent-DEMO/#knowledge) | Product profile, search targets with real yield, rules learned from your edits, sample images |
+| Help | [#help](https://javiddeveloper.github.io/Hermes-Divar-Sell-agent-DEMO/#help) | Quick start, what each page does, the lead lifecycle, searchable FAQ |
+| About | [#us](https://javiddeveloper.github.io/Hermes-Divar-Sell-agent-DEMO/#us) | Who built it, how to reach the author, the 3-step trial with your device ID |
 | Settings | [#settings](https://javiddeveloper.github.io/Hermes-Divar-Sell-agent-DEMO/#settings) | AI model, Divar account, Bale bot, license, **businesses** |
 
 ### Two businesses, one panel
@@ -76,7 +78,8 @@ Same engine, completely different data, wording, labels and numbers.
 | ![Work desk — salons](screenshots/02-work-desk-beauty.jpg) <br/> **Work desk — salons** | ![Work desk — real estate](screenshots/03-work-desk-realestate.jpg) <br/> **Work desk — real estate (after switching business)** |
 | ![Campaign](screenshots/04-campaign.jpg) <br/> **Send campaign** | ![Automation](screenshots/05-automation.jpg) <br/> **Automation & health** |
 | ![Reports](screenshots/06-reports.jpg) <br/> **Reports** | ![Customers](screenshots/07-customers.jpg) <br/> **Customers** |
-| ![Knowledge](screenshots/08-knowledge.jpg) <br/> **Product profile & knowledge** | ![Login](screenshots/01-login.jpg) <br/> **Lock screen** |
+| ![Knowledge](screenshots/08-knowledge.jpg) <br/> **Product profile & knowledge** | ![Help](screenshots/09-help.jpg) <br/> **Help** |
+| ![About](screenshots/10-about.jpg) <br/> **About** | ![Login](screenshots/01-login.jpg) <br/> **Lock screen** |
 
 ---
 
