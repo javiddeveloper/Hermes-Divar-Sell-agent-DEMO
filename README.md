@@ -48,6 +48,7 @@ Selling to small businesses (or to private owners) on Divar means scrolling hund
 | Reports | [#reports](https://javiddeveloper.github.io/Hermes-Divar-Sell-agent-DEMO/#reports) | Funnel, bottlenecks, loss reasons, best cities and hours, message-style analysis, CSV export |
 | Customers | [#customers](https://javiddeveloper.github.io/Hermes-Divar-Sell-agent-DEMO/#customers) | Converted customers, median time-to-convert, add a manual customer |
 | Knowledge | [#knowledge](https://javiddeveloper.github.io/Hermes-Divar-Sell-agent-DEMO/#knowledge) | Product profile, search targets with real yield, rules learned from your edits, sample images |
+| License | [#license](https://javiddeveloper.github.io/Hermes-Divar-Sell-agent-DEMO/#license) | Subscription status, days left, allowed businesses and numbers, device ID, installing a new license (any text is accepted in the demo) |
 | Help | [#help](https://javiddeveloper.github.io/Hermes-Divar-Sell-agent-DEMO/#help) | Plain-language guide for non-technical users: step-by-step for every page, common problems, searchable. The **?** button in the header opens the guide for the page you are on |
 | About | [#us](https://javiddeveloper.github.io/Hermes-Divar-Sell-agent-DEMO/#us) | Who built it, how to reach the author, the 3-step trial with your device ID |
 | Settings | [#settings](https://javiddeveloper.github.io/Hermes-Divar-Sell-agent-DEMO/#settings) | AI model, Divar account, Bale bot, license, **businesses** |
