@@ -157,6 +157,7 @@ This repository contains only the public demo. **Peik is a commercial product**,
 - 📧 [javiddeveloper@gmail.com](mailto:javiddeveloper@gmail.com?subject=Peik)
 - 💼 [LinkedIn](https://www.linkedin.com/in/javid-sattar/)
 - 🐙 [GitHub @javiddeveloper](https://github.com/javiddeveloper)
+- 📸 [Instagram @javiddev](https://www.instagram.com/javiddev)
 
 ---
 
